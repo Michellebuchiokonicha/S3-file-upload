@@ -24,8 +24,7 @@
           <!-- <v-img
               class="child-img"  
               :style="{ backgroundImage: 'url(' + previewFiles + ')' }"
-            ></v-img> -->
-            
+            ></v-img> -->     
   </form>
  </div>
 </template>
